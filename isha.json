@@ -1,0 +1,560 @@
+[
+
+
+    
+{
+    "id": 1,
+    "question": "What is the primary purpose of the Windows Start menu?",
+    "options": [
+        "Access installed programs and system features",
+        "Partition hard drives",
+        "Manage user permissions",
+        "Monitor CPU temperature"
+    ],
+    "answer": 1
+},
+{
+    "id": 2,
+    "question": "Which built-in file manager is used in modern Windows versions?",
+    "options": [
+        "Finder",
+        "Nautilus",
+        "File Explorer",
+        "Konqueror"
+    ],
+    "answer": 3
+},
+{
+    "id": 3,
+    "question": "What does the Taskbar typically show?",
+    "options": [
+        "Open applications and system tray icons",
+        "Only background services",
+        "BIOS settings",
+        "Active network connections only"
+    ],
+    "answer": 1
+},
+{
+    "id": 4,
+    "question": "Which setting app has largely replaced the Control Panel in recent Windows releases?",
+    "options": [
+        "Settings",
+        "Registry Editor",
+        "System Restore",
+        "Device Manager"
+    ],
+    "answer": 1
+},
+{
+    "id": 5,
+    "question": "What file extension is commonly used for Windows executables?",
+    "options": [
+        ".exe",
+        ".sh",
+        ".apk",
+        ".dmg"
+    ],
+    "answer": 1
+},
+{
+    "id": 6,
+    "question": "What is a desktop shortcut?",
+    "options": [
+        "A link that launches a program or opens a file/folder",
+        "A hidden system folder",
+        "A type of malware",
+        "A backup of the desktop"
+    ],
+    "answer": 1
+},
+{
+    "id": 7,
+    "question": "Which account type has full control over a Windows PC?",
+    "options": [
+        "Standard user",
+        "Guest",
+        "Administrator",
+        "Power user"
+    ],
+    "answer": 3
+},
+{
+    "id": 8,
+    "question": "Which tool shows hardware devices and drivers installed on a Windows PC?",
+    "options": [
+        "Device Manager",
+        "Event Viewer",
+        "Task Scheduler",
+        "Performance Monitor"
+    ],
+    "answer": 1
+},
+
+
+{
+    "id": 9,
+    "question": "What is the purpose of System Restore?",
+    "options": [
+        "Create restore points to roll back system files and settings",
+        "Encrypt user files",
+        "Update device drivers automatically",
+        "Defragment the hard drive"
+    ],
+    "answer": 1
+},
+{
+    "id": 10,
+    "question": "Which utility is used to run command-line tasks in Windows?",
+    "options": [
+        "Terminal Emulator",
+        "Command Prompt (cmd) or PowerShell",
+        "Activity Monitor",
+        "Disk Management"
+    ],
+    "answer": 2
+},
+{
+    "id": 11,
+    "question": "What does Windows Update primarily provide?",
+    "options": [
+        "Security patches and system updates",
+        "New desktop backgrounds",
+        "User profile synchronization",
+        "Third-party application installation"
+    ],
+    "answer": 1
+},
+{
+    "id": 12,
+    "question": "What is Safe Mode used for?",
+    "options": [
+        "Boot Windows with minimal drivers to troubleshoot issues",
+        "Increase system performance permanently",
+        "Install additional drivers automatically",
+        "Reset user passwords"
+    ],
+    "answer": 1
+},
+{
+    "id": 13,
+    "question": "What is the primary function of the CPU (central processing unit)?",
+    "options": [
+        "Execute instructions and perform calculations",
+        "Store long-term data",
+        "Render images to the display",
+        "Provide network connectivity"
+    ],
+    "answer": 1
+},
+{
+    "id": 14,
+    "question": "What does RAM (random access memory) primarily do?",
+    "options": [
+        "Permanently store files and programs",
+        "Hold data and programs temporarily for quick access",
+        "Supply power to components",
+        "Control peripheral devices"
+    ],
+    "answer": 2
+},
+{
+    "id": 15,
+    "question": "What is the role of the motherboard in a computer?",
+    "options": [
+        "Provide a platform that connects CPU, memory, and peripherals",
+        "Cool the CPU and GPU",
+        "Encrypt stored data",
+        "Manage cloud backups"
+    ],
+    "answer": 1
+},
+{
+    "id": 16,
+    "question": "Which storage type is typically faster: HDD or SSD?",
+    "options": [
+        "HDD (hard disk drive)",
+        "SSD (solid state drive)",
+        "They are equally fast",
+        "Removable optical drive"
+    ],
+    "answer": 2
+},
+{
+    "id": 17,
+    "question": "What is the main purpose of a GPU (graphics processing unit)?",
+    "options": [
+        "Manage power delivery to components",
+        "Render graphics and accelerate parallel computations",
+        "Store system firmware",
+        "Handle network traffic"
+    ],
+    "answer": 2
+},
+{
+    "id": 18,
+    "question": "What does a power supply unit (PSU) do?",
+    "options": [
+        "Convert AC mains power to DC voltages for components",
+        "Increase CPU clock speed",
+        "Store user settings",
+        "Provide wireless connectivity"
+    ],
+    "answer": 1
+},
+{
+    "id": 19,
+    "question": "What is BIOS/UEFI responsible for during startup?",
+    "options": [
+        "Providing an operating system GUI",
+        "Initializing hardware and starting the boot process",
+        "Defragmenting the hard drive",
+        "Updating antivirus definitions"
+    ],
+    "answer": 2
+},
+{
+    "id": 20,
+    "question": "Which port is commonly used for connecting keyboards, mice, and many peripherals?",
+    "options": [
+        "HDMI",
+        "USB",
+        "VGA",
+        "Ethernet"
+    ],
+    "answer": 2
+},
+{
+    "id": 21,
+    "question": "Which command lists files and directories in DOS?",
+    "options": [
+        "dir",
+        "ls",
+        "list",
+        "show"
+    ],
+    "answer": 1
+},
+{
+    "id": 22,
+    "question": "Which command changes the current directory?",
+    "options": [
+        "cd",
+        "pwd",
+        "home",
+        "goto"
+    ],
+    "answer": 1
+},
+{
+    "id": 23,
+    "question": "Which command creates a new directory?",
+    "options": [
+        "md or mkdir",
+        "touch",
+        "mkfile",
+        "rmdir"
+    ],
+    "answer": 1
+},
+{
+    "id": 24,
+    "question": "Which command removes an empty directory?",
+    "options": [
+        "rd or rmdir",
+        "del",
+        "erase",
+        "rm"
+    ],
+    "answer": 1
+},
+{
+    "id": 25,
+    "question": "Which command deletes a file in DOS?",
+    "options": [
+        "del",
+        "rm",
+        "erasefile",
+        "remove"
+    ],
+    "answer": 1
+},
+{
+    "id": 26,
+    "question": "Which command copies files from one location to another?",
+    "options": [
+        "copy",
+        "cp",
+        "duplicate",
+        "xmove"
+    ],
+    "answer": 1
+},
+{
+    "id": 27,
+    "question": "Which command moves files between directories?",
+    "options": [
+        "move",
+        "copy",
+        "del",
+        "goto"
+    ],
+    "answer": 1
+},
+{
+    "id": 28,
+    "question": "Which command clears the screen in a DOS prompt?",
+    "options": [
+        "cls",
+        "clear",
+        "screenclr",
+        "ctrl+l"
+    ],
+    "answer": 1
+},
+{
+    "id": 29,
+    "question": "Which command displays the contents of a text file?",
+    "options": [
+        "type",
+        "cat",
+        "more",
+        "view"
+    ],
+    "answer": 1
+},
+{
+    "id": 30,
+    "question": "Which command renames a file in DOS?",
+    "options": [
+        "ren",
+        "mv",
+        "rename",
+        "rn"
+    ],
+    "answer": 1
+},
+{
+    "id": 31,
+    "question": "What does the '>' operator do in a Windows command prompt?",
+    "options": [
+        "Redirect standard output to a file (overwrite)",
+        "Append standard output to a file",
+        "Redirect standard error only",
+        "Pipe output to another command"
+    ],
+    "answer": 1
+},
+{
+    "id": 32,
+    "question": "What does the '>>' operator do?",
+    "options": [
+        "Overwrite file with output",
+        "Append standard output to a file",
+        "Redirect standard error to file",
+        "Send output to the clipboard"
+    ],
+    "answer": 2
+},
+{
+    "id": 33,
+    "question": "Which operator redirects standard error (stderr) to a file?",
+    "options": [
+        "1>",
+        "2>",
+        "&>",
+        ">|"
+    ],
+    "answer": "2>"
+},
+{
+    "id": 34,
+    "question": "How do you redirect both stdout and stderr to the same file in cmd.exe?",
+    "options": [
+        "command &>file",
+        "command >file 2>&1",
+        "command 2>file 1>&2",
+        "command >>file 2>file"
+    ],
+    "answer": 2
+},
+{
+    "id": 35,
+    "question": "What does the '<' operator do?",
+    "options": [
+        "Redirect standard input from a file",
+        "Redirect standard output to a file",
+        "Swap stdout and stderr",
+        "Launch a program in the background"
+    ],
+    "answer": 1
+},
+{
+    "id": 36,
+    "question": "What does the '|' (pipe) operator do?",
+    "options": [
+        "Combine two files into one",
+        "Send the output of one command as input to another",
+        "Redirect stderr only",
+        "Append output to a file"
+    ],
+    "answer": 2
+},
+{
+    "id": 37,
+    "question": "How do you discard standard output in Windows cmd?",
+    "options": [
+        "command > nul",
+        "command > /dev/null",
+        "command >/dev/null 2>&1",
+        "command > nothing"
+    ],
+    "answer": 1
+},
+{
+    "id": 38,
+    "question": "How do you redirect stdout and stderr to separate files?",
+    "options": [
+        "command >out.txt 2>err.txt",
+        "command 2>&1 >out.txt",
+        "command &> out.txt",
+        "command >err.txt 2>out.txt"
+    ],
+    "answer": 1
+},
+{
+    "id": 39,
+    "question": "Which redirection will append stderr to a file as well as stdout?",
+    "options": [
+        "command >>file 2>&1",
+        "command >file 2>>file",
+        "command 2>>file >>file",
+        "command >file 2>file"
+    ],
+    "answer": 1
+},
+{
+    "id": 40,
+    "question": "Which operator is used in PowerShell to redirect all output streams to a file?",
+    "options": [
+        ">",
+        "*>",
+        "2>",
+        ">>"
+    ],
+    "answer": 2
+}
+,
+{
+    "id": 41,
+    "question": "Which primitive data type represents whole numbers without a fractional part?",
+    "options": [
+        "Integer",
+        "Float",
+        "String",
+        "Boolean"
+    ],
+    "answer": 1
+},
+{
+    "id": 42,
+    "question": "Which data type represents true or false values?",
+    "options": [
+        "Integer",
+        "Boolean",
+        "String",
+        "List"
+    ],
+    "answer": 2
+},
+{
+    "id": 43,
+    "question": "Which data type is used to store sequences of characters (text)?",
+    "options": [
+        "String",
+        "Float",
+        "Set",
+        "Dictionary"
+    ],
+    "answer": 1
+},
+{
+    "id": 44,
+    "question": "Which data type represents numbers with a fractional part (decimal numbers)?",
+    "options": [
+        "Integer",
+        "Float",
+        "Boolean",
+        "Bytes"
+    ],
+    "answer": 2
+},
+    {
+    "id": 45,
+    "question": "Which data type holds an ordered, mutable collection of items?",
+    "options": [
+        "List",
+        "Tuple",
+        "Set",
+        "Dictionary"
+    ],
+    "answer": 1
+},
+{
+    "id": 46,
+    "question": "Which data type stores items as key-value pairs?",
+    "options": [
+        "Tuple",
+        "Set",
+        "Dictionary",
+        "List"
+    ],
+    "answer": "Dictionary"
+},
+{
+    "id": 47,
+    "question": "Which data type is ordered but immutable (cannot be changed after creation)?",
+    "options": [
+        "List",
+        "Tuple",
+        "Set",
+        "Dictionary"
+    ],
+    "answer": "Tuple"
+},
+{
+    "id": 48,
+    "question": "Which data type stores unordered unique items?",
+    "options": [
+        "List",
+        "Tuple",
+        "Set",
+        "String"
+    ],
+    "answer": "Set"
+},
+{
+    "id": 49,
+    "question": "Which value commonly represents the absence of a value/null in many languages?",
+    "options": [
+        "0",
+        "false",
+        "null/None",
+        "\"\" (empty string)"
+    ],
+    "answer": "null/None"
+},
+{
+    "id": 50,
+    "question": "Which data type is used to represent binary data as a sequence of bytes?",
+    "options": [
+        "String",
+        "Integer",
+        "Bytes",
+        "Float"
+    ],
+    "answer": "Bytes"
+}
+
+]
+
