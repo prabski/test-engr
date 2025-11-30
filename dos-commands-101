@@ -21,3 +21,16 @@ dir /w
 type filename
 
 ## echo %date% show date
+
+
+## create a batch file
+
+notepad test.bat
+
+with following contents
+
+echo %date%
+echo "Greetings!"
+echo
+cd c:\users\ishas\py-quiz
+python py-quiz.py 
