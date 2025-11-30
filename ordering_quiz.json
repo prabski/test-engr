@@ -1,0 +1,316 @@
+
+
+[ 
+    
+    {
+            "type": "order",
+            "question": "Arrange in order: pig,  squirrel, penguin, rhino",
+            "items": [
+                {
+                    "text": "Hospital",
+                    "image": "assets/images/rhino.jpg"
+                },
+                {
+                    "text": "Library",
+                    "image": "assets/images/squirrel.jpg"
+                },
+                {
+                    "text": "Zoo",
+                    "image": "assets/images/pig.png"
+                },
+                {
+                    "text": "Mosque",
+                    "image": "assets/images/penguin.jpg"
+                }
+            ],
+            "correct_order": [3, 2, 1, 4]
+        },
+
+    {
+            "type": "order",
+            "question": "Arrange in order: Zoo, Library, Hospital, Mosque",
+            "items": [
+                {
+                    "text": "Hospital",
+                    "image": "assets/images/hospital2.jpg"
+                },
+                {
+                    "text": "Library",
+                    "image": "assets/images/library1.jpg"
+                },
+                {
+                    "text": "Zoo",
+                    "image": "assets/images/zoo2.png"
+                },
+                {
+                    "text": "Mosque",
+                    "image": "assets/images/mosque.jpg"
+                }
+            ],
+            "correct_order": [3, 2, 1, 4]
+        },
+
+
+    {
+            "type": "order",
+            "question": "Arrange in order: Temple, Church, Mosque, Mall",
+            "items": [
+                {
+                    "text": "Church",
+                    "image": "assets/images/Church.jpg"
+                },
+                {
+                    "text": "Temple",
+                    "image": "assets/images/temple.jpg"
+                },
+                {
+                    "text": "Mall",
+                    "image": "assets/images/Mall.jpg"
+                },
+                {
+                    "text": "Mosque",
+                    "image": "assets/images/mosque.jpg"
+                }
+            ],
+            "correct_order": [2, 1, 4, 3]
+        },
+
+        
+    {
+            "type": "order",
+            "question": "Arrange in order: Temple, Church, Mosque, Mall",
+            "items": [
+                {
+                    "text": "Church",
+                    "image": "assets/images/Church2.jpg"
+                },
+                {
+                    "text": "Temple",
+                    "image": "assets/images/temple2.jpg"
+                },
+                {
+                    "text": "Mall",
+                    "image": "assets/images/Mall2.jpg"
+                },
+                {
+                    "text": "Mosque",
+                    "image": "assets/images/mosque2.jpg"
+                }
+            ],
+            "correct_order": [2, 1, 4, 3]
+        },
+
+    {
+            "type": "order",
+            "question": "Arrange in order: Apple, Banana, Cherry, Date",
+            "items": [
+                {
+                    "text": "Banana",
+                    "image": "assets/images/banana.jpg"
+                },
+                {
+                    "text": "Date",
+                    "image": "assets/images/date.jpg"
+                },
+                {
+                    "text": "Apple",
+                    "image": "assets/images/apple.jpg"
+                },
+                {
+                    "text": "Cherry",
+                    "image": "assets/images/cherry.jpg"
+                }
+            ],
+            "correct_order": [3, 1, 4, 2]
+        },
+
+    {
+            "type": "order",
+            "question": "Arrange in order:runner, queen, serena, stop sign",
+            "items": [
+                {
+                    "text": "Queen",
+                    "image": "assets/images/queen8.jpg"
+                },
+                {
+                    "text": "Stop sign",
+                    "image": "assets/images/sign3.jpg"
+                },
+                {
+                    "text": "Runner",
+                    "image": "assets/images/runner.jpg"
+                },
+                {
+                    "text": "Serena",
+                    "image": "assets/images/serena.jpg"
+                }
+            ],
+            "correct_order": [3, 1, 4, 2]
+        },
+          {
+            "type": "order",
+            "question": "Arrange in order: Soccer, Football, Tennis, Golf",
+            "items": [
+                {
+                    "text": "Football",
+                    "image": "assets/images/football.jpg"
+                },
+               {
+                    "text": "Golf",
+                    "image": "assets/images/golf.jpg"
+                },
+               
+                   {
+                    "text": "Date",
+                    "image": "assets/images/soccer.jpg"
+                },
+               {
+                    "text": "Tennis",
+                    "image": "assets/images/tennis.jpg"
+                }
+           
+            ],
+            "correct_order": [3, 1, 4, 2]
+        },
+        {
+            "type": "order",
+            "question": "Arrange in order: Car, Bus, Train, Airplane",
+            "items": [
+                {
+                    "text": "Train",
+                    "image": "assets/images/train.jpg"
+                },
+                {
+                    "text": "Car",
+                    "image": "assets/images/car.jpg"
+                },
+                {
+                    "text": "Airplane",
+                    "image": "assets/images/airplane.jpg"
+                },
+                {
+                    "text": "Bus",
+                    "image": "assets/images/bus.jpg"
+                }
+            ],
+            "correct_order": [2, 4, 1, 3]
+        },
+        {
+            "type": "order",
+            "question": "Arrange in order: Dog, Cat, Bird, Fish",
+            "items": [
+                {
+                    "text": "Bird",
+                    "image": "assets/images/bird.jpg"
+                },
+                {
+                    "text": "Fish",
+                    "image": "assets/images/fish.jpg"
+                },
+                {
+                    "text": "Dog",
+                    "image": "assets/images/dog.jpg"
+                },
+                {
+                    "text": "Cat",
+                    "image": "assets/images/cat.jpg"
+                }
+            ],
+            "correct_order": [3, 4, 1, 2]
+        },
+        {
+            "type": "order",
+            "question": "Arrange in order: Wake up, Brush teeth, Eat breakfast, Go to school",
+            "items": [
+                {
+                    "text": "Eat breakfast",
+                    "image": "assets/images/breakfast.jpg"
+                },
+                {
+                    "text": "Go to school",
+                    "image": "assets/images/school.jpg"
+                },
+                {
+                    "text": "Wake up",
+                    "image": "assets/images/wake_up.jpg"
+                },
+                {
+                    "text": "Brush teeth",
+                    "image": "assets/images/brush_teeth.jpg"
+                }
+            ],
+            "correct_order": [3, 4, 1, 2]
+        },
+         {
+            "type": "order",
+            "question": "Arrange in order: ",
+            "items": [
+                {
+                    "text": "Eat breakfast",
+                    "image": "assets/images/breakfast.jpg"
+                },
+                {
+                    "text": "Go to school",
+                    "image": "assets/images/go_to_school.jpg"
+                },
+              
+                {
+                    "text": "Brush teeth",
+                    "image": "assets/images/brush_teeth.jpg"
+                },
+                  {
+                    "text": "Wake up",
+                    "image": "assets/images/wake_up.jpg"
+                }
+            ],
+            "correct_order": [4,3, 1, 2]
+        },
+        {
+            "type": "order",
+            "question": "Arrange in order: Monday, Wednesday, Friday, Sunday",
+            "items": [
+                {
+                    "text": "Friday",
+                    "image": "assets/images/friday.jpg"
+                },
+                {
+                    "text": "Monday",
+                    "image": "assets/images/monday.jpg"
+                },
+                {
+                    "text": "Sunday",
+                    "image": "assets/images/sunday.jpg"
+                },
+                {
+                    "text": "Wednesday",
+                    "image": "assets/images/wednesday.jpg"
+                }
+            ],
+            "correct_order": [2, 4, 1, 3]
+        },
+         {
+            "type": "order",
+            "question": "Arrange in order: ",
+            "items": [
+                {
+                    "text": "Friday",
+                    "image": "assets/images/friday.jpg"
+                },
+                {
+                    "text": "Monday",
+                    "image": "assets/images/monday.jpg"
+                },
+                {
+                    "text": "Sunday",
+                    "image": "assets/images/sunday.jpg"
+                },
+                {
+                    "text": "Wednesday",
+                    "image": "assets/images/wednesday.jpg"
+                }
+            ],
+            "correct_order": [2, 4, 1, 3]
+        }
+
+
+]
