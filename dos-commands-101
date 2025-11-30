@@ -6,8 +6,11 @@ c:
 d:
 
 # change directory
-cd c:\users
-cd /d d:\test
+cd c:\users\ishas\py-quiz
+dir
+
+cd .. ( go to previous directory)
+cd ../.. ( go to prev of previous dir)
 
 #learn contents
 dir 
