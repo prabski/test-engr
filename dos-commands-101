@@ -1,0 +1,20 @@
+# My DOS Commands to test
+
+
+#Drives
+c:
+d:
+
+# change directory
+cd c:\users
+cd /d d:\test
+
+#learn contents
+dir 
+dir /s
+dir /w
+
+# show contents of a file
+type filename
+
+## echo %date% show date
